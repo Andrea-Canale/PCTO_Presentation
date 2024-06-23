@@ -1,0 +1,1 @@
+import{o as t,c as a,q as e,s,A as r}from"../modules/vue-DLozXdZ-.js";import{I as m}from"./default-Cyb9qdA3.js";import{ad as o}from"../index-C8vsZ_wi.js";import{p,u as n,f as c}from"./context-DO_Q0vrf.js";import"../modules/shiki-DOjNGa0F.js";const k={__name:"5",setup(f){return p(o),n(),(i,u)=>(t(),a(m,e(s(r(c)(r(o),4))),null,16))}};export{k as default};
